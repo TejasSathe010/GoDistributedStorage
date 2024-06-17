@@ -4,7 +4,7 @@ This project aims to build a distributed content-addressable storage (CAS) syste
 
 ## Project Descriptions
 
-1. ** A Distributed CAS Storage in Golang** - a scalable distributed CAS storage system in Golang.
+1. **A Distributed CAS Storage in Golang** - a scalable distributed CAS storage system in Golang.
    
 2. **P2P Protocol in Golang for Distributed CAS** - a peer-to-peer (P2P) protocol in Golang tailored for the distributed CAS storage system.
 
